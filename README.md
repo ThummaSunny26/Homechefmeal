@@ -1,4 +1,4 @@
-# RAIQA - Home Chef Meal Selection App 🍽️
+#  Home Chef Meal Selection App 🍽️
 
 RAIQA is a modern, intuitive meal selection platform where users can browse handcrafted meals prepared by local home chefs. The application allows users to filter by availability, sort by price, and build a personalized selection with real-time cost calculation.
 
